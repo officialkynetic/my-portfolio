@@ -79,7 +79,7 @@ body {
 /* Hero Section */
 .hero {
   padding: 160px 20px 100px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #667eea 0%, #f2bae5 100%);
   color: var(--white);
   text-align: center;
 }
